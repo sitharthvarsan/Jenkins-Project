@@ -1,0 +1,602 @@
+[
+  {
+    "meeting_id": 1,
+    "title": "Project Alpha Sync 1",
+    "date": "2026-03-02",
+    "attendees": [
+      "John (Engineering)",
+      "Ravi (Backend)",
+      "Sarah (Product)",
+      "Neha (QA)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 1\nDate: 2026-03-02\n\nAttendees: Ravi (Backend), Neha (QA), Sarah (Product), John (Engineering)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 1.\nJohn: Backend APIs are around 73% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-07 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-09 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-07 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-08 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-10 00:00:00)"
+  },
+  {
+    "meeting_id": 2,
+    "title": "Project Alpha Sync 2",
+    "date": "2026-03-03",
+    "attendees": [
+      "Ravi (Backend)",
+      "Elena (Marketing)",
+      "Mike (Design)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 2\nDate: 2026-03-03\n\nAttendees: Sarah (Product), Neha (QA), John (Engineering), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 2.\nJohn: Backend APIs are around 67% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-08 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-10 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-08 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-09 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-11 00:00:00)"
+  },
+  {
+    "meeting_id": 3,
+    "title": "Project Alpha Sync 3",
+    "date": "2026-03-04",
+    "attendees": [
+      "Mike (Design)",
+      "Ravi (Backend)",
+      "Elena (Marketing)",
+      "Sarah (Product)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 3\nDate: 2026-03-04\n\nAttendees: Neha (QA), Elena (Marketing), Mike (Design), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 3.\nJohn: Backend APIs are around 62% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-09 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-11 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-09 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-10 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-12 00:00:00)"
+  },
+  {
+    "meeting_id": 4,
+    "title": "Project Alpha Sync 4",
+    "date": "2026-03-05",
+    "attendees": [
+      "John (Engineering)",
+      "Sarah (Product)",
+      "Mike (Design)",
+      "Ravi (Backend)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 4\nDate: 2026-03-05\n\nAttendees: Ravi (Backend), Elena (Marketing), Mike (Design), Sarah (Product)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 4.\nJohn: Backend APIs are around 79% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-10 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-12 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-10 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-11 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-13 00:00:00)"
+  },
+  {
+    "meeting_id": 5,
+    "title": "Project Alpha Sync 5",
+    "date": "2026-03-06",
+    "attendees": [
+      "Neha (QA)",
+      "Mike (Design)",
+      "Elena (Marketing)",
+      "Ravi (Backend)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 5\nDate: 2026-03-06\n\nAttendees: John (Engineering), Sarah (Product), Ravi (Backend), Mike (Design)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 5.\nJohn: Backend APIs are around 89% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-11 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-13 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-11 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-12 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-14 00:00:00)"
+  },
+  {
+    "meeting_id": 6,
+    "title": "Project Alpha Sync 6",
+    "date": "2026-03-07",
+    "attendees": [
+      "Neha (QA)",
+      "Mike (Design)",
+      "Ravi (Backend)",
+      "Sarah (Product)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 6\nDate: 2026-03-07\n\nAttendees: John (Engineering), Elena (Marketing), Sarah (Product), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 6.\nJohn: Backend APIs are around 82% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-12 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-14 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-12 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-13 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-15 00:00:00)"
+  },
+  {
+    "meeting_id": 7,
+    "title": "Project Alpha Sync 7",
+    "date": "2026-03-08",
+    "attendees": [
+      "John (Engineering)",
+      "Mike (Design)",
+      "Elena (Marketing)",
+      "Ravi (Backend)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 7\nDate: 2026-03-08\n\nAttendees: Ravi (Backend), Sarah (Product), John (Engineering), Elena (Marketing)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 7.\nJohn: Backend APIs are around 67% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-13 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-15 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-13 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-14 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-16 00:00:00)"
+  },
+  {
+    "meeting_id": 8,
+    "title": "Project Alpha Sync 8",
+    "date": "2026-03-09",
+    "attendees": [
+      "John (Engineering)",
+      "Ravi (Backend)",
+      "Sarah (Product)",
+      "Mike (Design)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 8\nDate: 2026-03-09\n\nAttendees: Mike (Design), Elena (Marketing), John (Engineering), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 8.\nJohn: Backend APIs are around 82% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-14 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-16 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-14 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-15 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-17 00:00:00)"
+  },
+  {
+    "meeting_id": 9,
+    "title": "Project Alpha Sync 9",
+    "date": "2026-03-10",
+    "attendees": [
+      "John (Engineering)",
+      "Neha (QA)",
+      "Ravi (Backend)",
+      "Sarah (Product)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 9\nDate: 2026-03-10\n\nAttendees: Neha (QA), Elena (Marketing), Mike (Design), Sarah (Product)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 9.\nJohn: Backend APIs are around 74% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-15 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-17 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-15 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-16 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-18 00:00:00)"
+  },
+  {
+    "meeting_id": 10,
+    "title": "Project Alpha Sync 10",
+    "date": "2026-03-11",
+    "attendees": [
+      "Neha (QA)",
+      "Mike (Design)",
+      "Elena (Marketing)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 10\nDate: 2026-03-11\n\nAttendees: Sarah (Product), Elena (Marketing), Neha (QA), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 10.\nJohn: Backend APIs are around 74% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-16 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-18 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-16 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-17 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-19 00:00:00)"
+  },
+  {
+    "meeting_id": 11,
+    "title": "Project Alpha Sync 11",
+    "date": "2026-03-12",
+    "attendees": [
+      "Mike (Design)",
+      "Elena (Marketing)",
+      "Neha (QA)",
+      "Ravi (Backend)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 11\nDate: 2026-03-12\n\nAttendees: Mike (Design), Neha (QA), Ravi (Backend), Elena (Marketing)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 11.\nJohn: Backend APIs are around 61% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-17 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-19 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-17 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-18 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-20 00:00:00)"
+  },
+  {
+    "meeting_id": 12,
+    "title": "Project Alpha Sync 12",
+    "date": "2026-03-13",
+    "attendees": [
+      "Mike (Design)",
+      "Neha (QA)",
+      "John (Engineering)",
+      "Elena (Marketing)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 12\nDate: 2026-03-13\n\nAttendees: Elena (Marketing), John (Engineering), Neha (QA), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 12.\nJohn: Backend APIs are around 85% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-18 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-20 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-18 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-19 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-21 00:00:00)"
+  },
+  {
+    "meeting_id": 13,
+    "title": "Project Alpha Sync 13",
+    "date": "2026-03-14",
+    "attendees": [
+      "John (Engineering)",
+      "Ravi (Backend)",
+      "Sarah (Product)",
+      "Elena (Marketing)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 13\nDate: 2026-03-14\n\nAttendees: John (Engineering), Sarah (Product), Elena (Marketing), Neha (QA)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 13.\nJohn: Backend APIs are around 90% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-19 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-21 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-19 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-20 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-22 00:00:00)"
+  },
+  {
+    "meeting_id": 14,
+    "title": "Project Alpha Sync 14",
+    "date": "2026-03-15",
+    "attendees": [
+      "John (Engineering)",
+      "Elena (Marketing)",
+      "Mike (Design)",
+      "Neha (QA)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 14\nDate: 2026-03-15\n\nAttendees: Ravi (Backend), Mike (Design), John (Engineering), Elena (Marketing)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 14.\nJohn: Backend APIs are around 89% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-20 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-22 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-20 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-21 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-23 00:00:00)"
+  },
+  {
+    "meeting_id": 15,
+    "title": "Project Alpha Sync 15",
+    "date": "2026-03-16",
+    "attendees": [
+      "John (Engineering)",
+      "Sarah (Product)",
+      "Mike (Design)",
+      "Ravi (Backend)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 15\nDate: 2026-03-16\n\nAttendees: Ravi (Backend), John (Engineering), Elena (Marketing), Neha (QA)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 15.\nJohn: Backend APIs are around 90% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-21 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-23 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-21 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-22 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-24 00:00:00)"
+  },
+  {
+    "meeting_id": 16,
+    "title": "Project Alpha Sync 16",
+    "date": "2026-03-17",
+    "attendees": [
+      "Neha (QA)",
+      "Sarah (Product)",
+      "Elena (Marketing)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 16\nDate: 2026-03-17\n\nAttendees: Ravi (Backend), John (Engineering), Neha (QA), Sarah (Product)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 16.\nJohn: Backend APIs are around 83% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-22 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-24 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-22 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-23 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-25 00:00:00)"
+  },
+  {
+    "meeting_id": 17,
+    "title": "Project Alpha Sync 17",
+    "date": "2026-03-18",
+    "attendees": [
+      "John (Engineering)",
+      "Neha (QA)",
+      "Mike (Design)",
+      "Sarah (Product)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 17\nDate: 2026-03-18\n\nAttendees: Neha (QA), Mike (Design), Elena (Marketing), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 17.\nJohn: Backend APIs are around 74% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-23 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-25 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-23 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-24 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-26 00:00:00)"
+  },
+  {
+    "meeting_id": 18,
+    "title": "Project Alpha Sync 18",
+    "date": "2026-03-19",
+    "attendees": [
+      "Elena (Marketing)",
+      "Neha (QA)",
+      "Sarah (Product)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 18\nDate: 2026-03-19\n\nAttendees: Elena (Marketing), Mike (Design), John (Engineering), Neha (QA)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 18.\nJohn: Backend APIs are around 66% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-24 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-26 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-24 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-25 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-27 00:00:00)"
+  },
+  {
+    "meeting_id": 19,
+    "title": "Project Alpha Sync 19",
+    "date": "2026-03-20",
+    "attendees": [
+      "Elena (Marketing)",
+      "Ravi (Backend)",
+      "Sarah (Product)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 19\nDate: 2026-03-20\n\nAttendees: Neha (QA), Mike (Design), Ravi (Backend), Sarah (Product)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 19.\nJohn: Backend APIs are around 72% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-25 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-27 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-25 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-26 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-28 00:00:00)"
+  },
+  {
+    "meeting_id": 20,
+    "title": "Project Alpha Sync 20",
+    "date": "2026-03-21",
+    "attendees": [
+      "John (Engineering)",
+      "Ravi (Backend)",
+      "Mike (Design)",
+      "Elena (Marketing)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 20\nDate: 2026-03-21\n\nAttendees: Sarah (Product), John (Engineering), Ravi (Backend), Elena (Marketing)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 20.\nJohn: Backend APIs are around 75% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-26 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-28 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-26 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-27 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-29 00:00:00)"
+  },
+  {
+    "meeting_id": 21,
+    "title": "Project Alpha Sync 21",
+    "date": "2026-03-22",
+    "attendees": [
+      "Mike (Design)",
+      "Ravi (Backend)",
+      "Elena (Marketing)",
+      "Sarah (Product)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 21\nDate: 2026-03-22\n\nAttendees: Neha (QA), John (Engineering), Ravi (Backend), Sarah (Product)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 21.\nJohn: Backend APIs are around 88% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-27 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-29 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-27 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-28 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-30 00:00:00)"
+  },
+  {
+    "meeting_id": 22,
+    "title": "Project Alpha Sync 22",
+    "date": "2026-03-23",
+    "attendees": [
+      "Sarah (Product)",
+      "John (Engineering)",
+      "Ravi (Backend)",
+      "Neha (QA)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 22\nDate: 2026-03-23\n\nAttendees: Neha (QA), Sarah (Product), Mike (Design), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 22.\nJohn: Backend APIs are around 89% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-28 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-30 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-28 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-29 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-03-31 00:00:00)"
+  },
+  {
+    "meeting_id": 23,
+    "title": "Project Alpha Sync 23",
+    "date": "2026-03-24",
+    "attendees": [
+      "Sarah (Product)",
+      "John (Engineering)",
+      "Mike (Design)",
+      "Neha (QA)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 23\nDate: 2026-03-24\n\nAttendees: Mike (Design), Neha (QA), Sarah (Product), Elena (Marketing)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 23.\nJohn: Backend APIs are around 71% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-29 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-03-31 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-29 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-30 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-01 00:00:00)"
+  },
+  {
+    "meeting_id": 24,
+    "title": "Project Alpha Sync 24",
+    "date": "2026-03-25",
+    "attendees": [
+      "Ravi (Backend)",
+      "Neha (QA)",
+      "Elena (Marketing)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 24\nDate: 2026-03-25\n\nAttendees: Neha (QA), Sarah (Product), John (Engineering), Mike (Design)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 24.\nJohn: Backend APIs are around 73% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-30 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-01 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-30 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-03-31 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-02 00:00:00)"
+  },
+  {
+    "meeting_id": 25,
+    "title": "Project Alpha Sync 25",
+    "date": "2026-03-26",
+    "attendees": [
+      "John (Engineering)",
+      "Neha (QA)",
+      "Mike (Design)",
+      "Sarah (Product)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 25\nDate: 2026-03-26\n\nAttendees: Sarah (Product), John (Engineering), Mike (Design), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 25.\nJohn: Backend APIs are around 77% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-03-31 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-02 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-03-31 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-01 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-03 00:00:00)"
+  },
+  {
+    "meeting_id": 26,
+    "title": "Project Alpha Sync 26",
+    "date": "2026-03-27",
+    "attendees": [
+      "Mike (Design)",
+      "Sarah (Product)",
+      "John (Engineering)",
+      "Elena (Marketing)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 26\nDate: 2026-03-27\n\nAttendees: Mike (Design), Elena (Marketing), John (Engineering), Neha (QA)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 26.\nJohn: Backend APIs are around 83% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-01 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-03 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-01 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-02 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-04 00:00:00)"
+  },
+  {
+    "meeting_id": 27,
+    "title": "Project Alpha Sync 27",
+    "date": "2026-03-28",
+    "attendees": [
+      "Elena (Marketing)",
+      "Sarah (Product)",
+      "Mike (Design)",
+      "Neha (QA)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 27\nDate: 2026-03-28\n\nAttendees: John (Engineering), Ravi (Backend), Mike (Design), Elena (Marketing)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 27.\nJohn: Backend APIs are around 80% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-02 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-04 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-02 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-03 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-05 00:00:00)"
+  },
+  {
+    "meeting_id": 28,
+    "title": "Project Alpha Sync 28",
+    "date": "2026-03-29",
+    "attendees": [
+      "Mike (Design)",
+      "John (Engineering)",
+      "Ravi (Backend)",
+      "Elena (Marketing)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 28\nDate: 2026-03-29\n\nAttendees: Neha (QA), Mike (Design), Ravi (Backend), Sarah (Product)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 28.\nJohn: Backend APIs are around 86% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-03 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-05 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-03 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-04 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-06 00:00:00)"
+  },
+  {
+    "meeting_id": 29,
+    "title": "Project Alpha Sync 29",
+    "date": "2026-03-30",
+    "attendees": [
+      "Sarah (Product)",
+      "Mike (Design)",
+      "Ravi (Backend)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 29\nDate: 2026-03-30\n\nAttendees: Neha (QA), Ravi (Backend), Mike (Design), John (Engineering)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 29.\nJohn: Backend APIs are around 79% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-04 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-06 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-04 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-05 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-07 00:00:00)"
+  },
+  {
+    "meeting_id": 30,
+    "title": "Project Alpha Sync 30",
+    "date": "2026-03-31",
+    "attendees": [
+      "John (Engineering)",
+      "Ravi (Backend)",
+      "Neha (QA)",
+      "Mike (Design)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 30\nDate: 2026-03-31\n\nAttendees: Elena (Marketing), Mike (Design), Sarah (Product), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 30.\nJohn: Backend APIs are around 79% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-05 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-07 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-05 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-06 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-08 00:00:00)"
+  },
+  {
+    "meeting_id": 31,
+    "title": "Project Alpha Sync 31",
+    "date": "2026-04-01",
+    "attendees": [
+      "John (Engineering)",
+      "Sarah (Product)",
+      "Ravi (Backend)",
+      "Neha (QA)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 31\nDate: 2026-04-01\n\nAttendees: John (Engineering), Ravi (Backend), Elena (Marketing), Mike (Design)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 31.\nJohn: Backend APIs are around 68% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-06 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-08 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-06 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-07 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-09 00:00:00)"
+  },
+  {
+    "meeting_id": 32,
+    "title": "Project Alpha Sync 32",
+    "date": "2026-04-02",
+    "attendees": [
+      "Mike (Design)",
+      "Elena (Marketing)",
+      "Ravi (Backend)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 32\nDate: 2026-04-02\n\nAttendees: Mike (Design), Elena (Marketing), Sarah (Product), Neha (QA)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 32.\nJohn: Backend APIs are around 70% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-07 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-09 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-07 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-08 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-10 00:00:00)"
+  },
+  {
+    "meeting_id": 33,
+    "title": "Project Alpha Sync 33",
+    "date": "2026-04-03",
+    "attendees": [
+      "Neha (QA)",
+      "Sarah (Product)",
+      "Mike (Design)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 33\nDate: 2026-04-03\n\nAttendees: Elena (Marketing), Sarah (Product), Neha (QA), John (Engineering)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 33.\nJohn: Backend APIs are around 88% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-08 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-10 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-08 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-09 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-11 00:00:00)"
+  },
+  {
+    "meeting_id": 34,
+    "title": "Project Alpha Sync 34",
+    "date": "2026-04-04",
+    "attendees": [
+      "Elena (Marketing)",
+      "Mike (Design)",
+      "John (Engineering)",
+      "Neha (QA)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 34\nDate: 2026-04-04\n\nAttendees: John (Engineering), Mike (Design), Sarah (Product), Neha (QA)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 34.\nJohn: Backend APIs are around 63% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-09 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-11 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-09 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-10 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-12 00:00:00)"
+  },
+  {
+    "meeting_id": 35,
+    "title": "Project Alpha Sync 35",
+    "date": "2026-04-05",
+    "attendees": [
+      "Neha (QA)",
+      "Sarah (Product)",
+      "Ravi (Backend)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 35\nDate: 2026-04-05\n\nAttendees: Elena (Marketing), John (Engineering), Neha (QA), Mike (Design)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 35.\nJohn: Backend APIs are around 71% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-10 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-12 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-10 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-11 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-13 00:00:00)"
+  },
+  {
+    "meeting_id": 36,
+    "title": "Project Alpha Sync 36",
+    "date": "2026-04-06",
+    "attendees": [
+      "Mike (Design)",
+      "John (Engineering)",
+      "Elena (Marketing)",
+      "Ravi (Backend)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 36\nDate: 2026-04-06\n\nAttendees: Ravi (Backend), Elena (Marketing), Mike (Design), Sarah (Product)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 36.\nJohn: Backend APIs are around 81% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-11 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-13 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-11 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-12 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-14 00:00:00)"
+  },
+  {
+    "meeting_id": 37,
+    "title": "Project Alpha Sync 37",
+    "date": "2026-04-07",
+    "attendees": [
+      "Mike (Design)",
+      "Sarah (Product)",
+      "Neha (QA)",
+      "Elena (Marketing)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 37\nDate: 2026-04-07\n\nAttendees: Sarah (Product), Ravi (Backend), Mike (Design), Neha (QA)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 37.\nJohn: Backend APIs are around 63% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-12 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-14 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-12 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-13 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-15 00:00:00)"
+  },
+  {
+    "meeting_id": 38,
+    "title": "Project Alpha Sync 38",
+    "date": "2026-04-08",
+    "attendees": [
+      "Neha (QA)",
+      "Ravi (Backend)",
+      "John (Engineering)",
+      "Mike (Design)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 38\nDate: 2026-04-08\n\nAttendees: Neha (QA), Sarah (Product), John (Engineering), Elena (Marketing)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 38.\nJohn: Backend APIs are around 89% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-13 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-15 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-13 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-14 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-16 00:00:00)"
+  },
+  {
+    "meeting_id": 39,
+    "title": "Project Alpha Sync 39",
+    "date": "2026-04-09",
+    "attendees": [
+      "Neha (QA)",
+      "John (Engineering)",
+      "Mike (Design)",
+      "Sarah (Product)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 39\nDate: 2026-04-09\n\nAttendees: Sarah (Product), Elena (Marketing), Ravi (Backend), Mike (Design)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 39.\nJohn: Backend APIs are around 66% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-14 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-16 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-14 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-15 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-17 00:00:00)"
+  },
+  {
+    "meeting_id": 40,
+    "title": "Project Alpha Sync 40",
+    "date": "2026-04-10",
+    "attendees": [
+      "Ravi (Backend)",
+      "Sarah (Product)",
+      "John (Engineering)",
+      "Mike (Design)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 40\nDate: 2026-04-10\n\nAttendees: Ravi (Backend), Mike (Design), John (Engineering), Neha (QA)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 40.\nJohn: Backend APIs are around 60% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-15 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-17 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-15 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-16 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-18 00:00:00)"
+  },
+  {
+    "meeting_id": 41,
+    "title": "Project Alpha Sync 41",
+    "date": "2026-04-11",
+    "attendees": [
+      "Mike (Design)",
+      "Sarah (Product)",
+      "Neha (QA)",
+      "Elena (Marketing)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 41\nDate: 2026-04-11\n\nAttendees: John (Engineering), Sarah (Product), Neha (QA), Mike (Design)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 41.\nJohn: Backend APIs are around 65% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-16 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-18 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-16 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-17 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-19 00:00:00)"
+  },
+  {
+    "meeting_id": 42,
+    "title": "Project Alpha Sync 42",
+    "date": "2026-04-12",
+    "attendees": [
+      "Elena (Marketing)",
+      "Neha (QA)",
+      "Mike (Design)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 42\nDate: 2026-04-12\n\nAttendees: Sarah (Product), Mike (Design), Neha (QA), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 42.\nJohn: Backend APIs are around 65% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-17 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-19 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-17 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-18 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-20 00:00:00)"
+  },
+  {
+    "meeting_id": 43,
+    "title": "Project Alpha Sync 43",
+    "date": "2026-04-13",
+    "attendees": [
+      "Ravi (Backend)",
+      "John (Engineering)",
+      "Neha (QA)",
+      "Elena (Marketing)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 43\nDate: 2026-04-13\n\nAttendees: Sarah (Product), Ravi (Backend), John (Engineering), Mike (Design)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 43.\nJohn: Backend APIs are around 72% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-18 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-20 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-18 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-19 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-21 00:00:00)"
+  },
+  {
+    "meeting_id": 44,
+    "title": "Project Alpha Sync 44",
+    "date": "2026-04-14",
+    "attendees": [
+      "Ravi (Backend)",
+      "Sarah (Product)",
+      "Mike (Design)",
+      "Elena (Marketing)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 44\nDate: 2026-04-14\n\nAttendees: Mike (Design), Sarah (Product), Elena (Marketing), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 44.\nJohn: Backend APIs are around 62% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-19 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-21 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-19 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-20 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-22 00:00:00)"
+  },
+  {
+    "meeting_id": 45,
+    "title": "Project Alpha Sync 45",
+    "date": "2026-04-15",
+    "attendees": [
+      "Sarah (Product)",
+      "Ravi (Backend)",
+      "John (Engineering)",
+      "Mike (Design)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 45\nDate: 2026-04-15\n\nAttendees: Neha (QA), Mike (Design), Ravi (Backend), Sarah (Product)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 45.\nJohn: Backend APIs are around 71% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-20 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-22 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-20 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-21 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-23 00:00:00)"
+  },
+  {
+    "meeting_id": 46,
+    "title": "Project Alpha Sync 46",
+    "date": "2026-04-16",
+    "attendees": [
+      "Mike (Design)",
+      "Elena (Marketing)",
+      "John (Engineering)",
+      "Ravi (Backend)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 46\nDate: 2026-04-16\n\nAttendees: Neha (QA), Sarah (Product), Ravi (Backend), John (Engineering)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 46.\nJohn: Backend APIs are around 75% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-21 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-23 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-21 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-22 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-24 00:00:00)"
+  },
+  {
+    "meeting_id": 47,
+    "title": "Project Alpha Sync 47",
+    "date": "2026-04-17",
+    "attendees": [
+      "John (Engineering)",
+      "Elena (Marketing)",
+      "Ravi (Backend)",
+      "Mike (Design)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 47\nDate: 2026-04-17\n\nAttendees: Neha (QA), John (Engineering), Sarah (Product), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 47.\nJohn: Backend APIs are around 68% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-22 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-24 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-22 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-23 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-25 00:00:00)"
+  },
+  {
+    "meeting_id": 48,
+    "title": "Project Alpha Sync 48",
+    "date": "2026-04-18",
+    "attendees": [
+      "Ravi (Backend)",
+      "John (Engineering)",
+      "Sarah (Product)",
+      "Mike (Design)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 48\nDate: 2026-04-18\n\nAttendees: Elena (Marketing), Neha (QA), Ravi (Backend), John (Engineering)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 48.\nJohn: Backend APIs are around 76% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-23 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-25 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-23 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-24 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-26 00:00:00)"
+  },
+  {
+    "meeting_id": 49,
+    "title": "Project Alpha Sync 49",
+    "date": "2026-04-19",
+    "attendees": [
+      "Mike (Design)",
+      "Elena (Marketing)",
+      "Neha (QA)",
+      "John (Engineering)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 49\nDate: 2026-04-19\n\nAttendees: Sarah (Product), Neha (QA), John (Engineering), Ravi (Backend)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 49.\nJohn: Backend APIs are around 62% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-24 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-26 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-24 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-25 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-27 00:00:00)"
+  },
+  {
+    "meeting_id": 50,
+    "title": "Project Alpha Sync 50",
+    "date": "2026-04-20",
+    "attendees": [
+      "Mike (Design)",
+      "John (Engineering)",
+      "Elena (Marketing)",
+      "Ravi (Backend)"
+    ],
+    "transcript": "Meeting Title: Project Alpha Sync 50\nDate: 2026-04-20\n\nAttendees: Ravi (Backend), Elena (Marketing), John (Engineering), Sarah (Product)\n\nTranscript:\nSarah: Let's review progress and blockers for sprint 50.\nJohn: Backend APIs are around 82% complete but UI dependencies remain.\nMike: UI wireframes will be finalized by 2026-04-25 00:00:00.\nElena: Marketing budget is tight; we may need to prioritize features.\nRavi: There are performance issues under load testing.\nNeha: QA found several bugs in the dashboard module.\n\nDecision:\n- Prioritize core dashboard delivery\n- Delay secondary features if needed\n\nAction Items:\n- John: Complete backend APIs (Deadline: 2026-04-27 00:00:00)\n- Mike: Deliver final UI designs (Deadline: 2026-04-25 00:00:00)\n- Elena: Draft marketing plan (Deadline: 2026-04-26 00:00:00)\n- Neha: Complete QA testing (Deadline: 2026-04-28 00:00:00)"
+  }
+]
